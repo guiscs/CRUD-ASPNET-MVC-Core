@@ -1,0 +1,9 @@
+C:\Cursos\WebApi.NetCORE\MinhaAppMvcCompleta\src\DevIO.Business\bin\Release\netcoreapp2.2\DevIO.Business.deps.json
+C:\Cursos\WebApi.NetCORE\MinhaAppMvcCompleta\src\DevIO.Business\bin\Release\netcoreapp2.2\DevIO.Business.dll
+C:\Cursos\WebApi.NetCORE\MinhaAppMvcCompleta\src\DevIO.Business\bin\Release\netcoreapp2.2\DevIO.Business.pdb
+C:\Cursos\WebApi.NetCORE\MinhaAppMvcCompleta\src\DevIO.Business\obj\Release\netcoreapp2.2\DevIO.Business.csprojAssemblyReference.cache
+C:\Cursos\WebApi.NetCORE\MinhaAppMvcCompleta\src\DevIO.Business\obj\Release\netcoreapp2.2\DevIO.Business.csproj.CoreCompileInputs.cache
+C:\Cursos\WebApi.NetCORE\MinhaAppMvcCompleta\src\DevIO.Business\obj\Release\netcoreapp2.2\DevIO.Business.AssemblyInfoInputs.cache
+C:\Cursos\WebApi.NetCORE\MinhaAppMvcCompleta\src\DevIO.Business\obj\Release\netcoreapp2.2\DevIO.Business.AssemblyInfo.cs
+C:\Cursos\WebApi.NetCORE\MinhaAppMvcCompleta\src\DevIO.Business\obj\Release\netcoreapp2.2\DevIO.Business.dll
+C:\Cursos\WebApi.NetCORE\MinhaAppMvcCompleta\src\DevIO.Business\obj\Release\netcoreapp2.2\DevIO.Business.pdb
