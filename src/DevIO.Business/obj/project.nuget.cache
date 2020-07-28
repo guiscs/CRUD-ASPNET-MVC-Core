@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "y1a1x8dSVqaYfCw99Pa+iXOnnVUjYE9/wgXKSTE+Rx5/LwbtTEtkllwVikU8xA7SumNolBEkC1Oz4Vdh+e8Eyg==",
+  "dgSpecHash": "Vl/7wCQnGszoiFFnVT6NkEjTHafArpQ2WVH5SlWKtNIjS36MUZve7Qgm7rWyffhKaHWP3PBJ7TlOBkiCLi2FXQ==",
   "success": true,
-  "projectFilePath": "C:\\Project\\Aspnet-Crud-MVC\\src\\DevIO.Business\\DevIO.Business.csproj",
+  "projectFilePath": "C:\\Project\\Aspnet-Crud-MVC\\src\\DevIO.Business\\Catalogo.Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\guime\\.nuget\\packages\\fluentvalidation\\9.0.1\\fluentvalidation.9.0.1.nupkg.sha512",
     "C:\\Users\\guime\\.nuget\\packages\\microsoft.netcore.app\\2.2.0\\microsoft.netcore.app.2.2.0.nupkg.sha512",

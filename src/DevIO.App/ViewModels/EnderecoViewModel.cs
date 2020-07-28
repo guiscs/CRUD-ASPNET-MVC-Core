@@ -2,7 +2,7 @@
 using System;
 using System.ComponentModel.DataAnnotations;
 
-namespace DevIO.App.ViewModels
+namespace Catalogo.App.ViewModels
 {
     public class EnderecoViewModel
     {

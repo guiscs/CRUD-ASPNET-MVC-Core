@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Razor.TagHelpers;
 using Microsoft.AspNetCore.Routing;
 
-namespace DevIO.App.Extensions
+namespace Catalogo.App.Extensions
 {
     [HtmlTargetElement("*", Attributes = "supress-by-claim-name")]
     [HtmlTargetElement("*", Attributes = "supress-by-claim-value")]

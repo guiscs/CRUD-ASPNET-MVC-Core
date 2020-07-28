@@ -1,9 +1,9 @@
-﻿using DevIO.Business.Models;
+﻿using Catalogo.Business.Models;
 using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
-namespace DevIO.Business.Interfaces
+namespace Catalogo.Business.Interfaces
 {
     public interface IProdutoRepository : IRepository<Produto>
     {

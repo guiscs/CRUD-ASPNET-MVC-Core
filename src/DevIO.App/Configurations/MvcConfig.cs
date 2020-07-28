@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace DevIO.App.Configurations
+namespace Catalogo.App.Configurations
 {
     public static class MvcConfig
     {

@@ -10,3 +10,15 @@ C:\Cursos\WebApi.NetCORE\MinhaAppMvcCompleta\src\DevIO.Data\obj\Debug\netcoreapp
 C:\Cursos\WebApi.NetCORE\MinhaAppMvcCompleta\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.csproj.CopyComplete
 C:\Cursos\WebApi.NetCORE\MinhaAppMvcCompleta\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.dll
 C:\Cursos\WebApi.NetCORE\MinhaAppMvcCompleta\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.pdb
+C:\Project\Aspnet-Crud-MVC\src\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Data.deps.json
+C:\Project\Aspnet-Crud-MVC\src\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Data.dll
+C:\Project\Aspnet-Crud-MVC\src\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Data.pdb
+C:\Project\Aspnet-Crud-MVC\src\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Business.dll
+C:\Project\Aspnet-Crud-MVC\src\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Business.pdb
+C:\Project\Aspnet-Crud-MVC\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.csprojAssemblyReference.cache
+C:\Project\Aspnet-Crud-MVC\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.csproj.CoreCompileInputs.cache
+C:\Project\Aspnet-Crud-MVC\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.AssemblyInfoInputs.cache
+C:\Project\Aspnet-Crud-MVC\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.AssemblyInfo.cs
+C:\Project\Aspnet-Crud-MVC\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.csproj.CopyComplete
+C:\Project\Aspnet-Crud-MVC\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.dll
+C:\Project\Aspnet-Crud-MVC\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.pdb

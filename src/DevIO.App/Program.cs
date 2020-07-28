@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore;
 using Microsoft.AspNetCore.Hosting;
 
-namespace DevIO.App
+namespace Catalogo.App
 {
     public class Program
     {

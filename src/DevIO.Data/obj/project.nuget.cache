@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XwaZIG8JI8eJMtg0QBpTcl7AzJbXwyuqSY7lbpDygQOYs07mBcJ2uRKzJzniqiprScVJj1/ApWQ8UkjCIrH3mQ==",
+  "dgSpecHash": "zgD9Gv9AvGUk/IAmCQBKEOtEgx83c01qEItup8bfRNMTTyybvd6TplT/GvXGU/0vwuwEW0+wXiSVAmHPA3gbSg==",
   "success": true,
-  "projectFilePath": "C:\\Project\\Aspnet-Crud-MVC\\src\\DevIO.Data\\DevIO.Data.csproj",
+  "projectFilePath": "C:\\Project\\Aspnet-Crud-MVC\\src\\DevIO.Data\\Catalogo.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\guime\\.nuget\\packages\\fluentvalidation\\9.0.1\\fluentvalidation.9.0.1.nupkg.sha512",
     "C:\\Users\\guime\\.nuget\\packages\\microsoft.entityframeworkcore\\2.2.6\\microsoft.entityframeworkcore.2.2.6.nupkg.sha512",

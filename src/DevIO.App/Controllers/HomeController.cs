@@ -1,8 +1,8 @@
-﻿using DevIO.App.ViewModels;
+﻿using Catalogo.App.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
-namespace DevIO.App.Controllers
+namespace Catalogo.App.Controllers
 {
     public class HomeController : Controller
     {

@@ -1,7 +1,7 @@
-﻿using DevIO.Business.Interfaces;
+﻿using Catalogo.Business.Interfaces;
 using Microsoft.AspNetCore.Mvc;
 
-namespace DevIO.App.Controllers
+namespace Catalogo.App.Controllers
 {
     public abstract class BaseController : Controller
     {

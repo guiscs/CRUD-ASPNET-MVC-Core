@@ -1,8 +1,8 @@
 ﻿using System.Threading.Tasks;
-using DevIO.Business.Interfaces;
+using Catalogo.Business.Interfaces;
 using Microsoft.AspNetCore.Mvc;
 
-namespace DevIO.App.Extensions
+namespace Catalogo.App.Extensions
 {
     public class SummaryViewComponent : ViewComponent
     {

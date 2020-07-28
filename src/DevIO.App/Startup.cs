@@ -1,13 +1,13 @@
 ﻿using AutoMapper;
-using DevIO.App.Configurations;
-using DevIO.Data.Context;
+using Catalogo.App.Configurations;
+using Catalogo.Data.Context;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace DevIO.App
+namespace Catalogo.App
 {
     public class Startup
     {

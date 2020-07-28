@@ -1,8 +1,8 @@
 ﻿using AutoMapper;
-using DevIO.App.ViewModels;
-using DevIO.Business.Models;
+using Catalogo.App.ViewModels;
+using Catalogo.Business.Models;
 
-namespace DevIO.App.AutoMapper
+namespace Catalogo.App.AutoMapper
 {
     public class AutoMapperConfig : Profile
     {

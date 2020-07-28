@@ -1,6 +1,6 @@
-﻿using DevIO.Business.Interfaces;
-using DevIO.Business.Models;
-using DevIO.Data.Context;
+﻿using Catalogo.Business.Interfaces;
+using Catalogo.Business.Models;
+using Catalogo.Data.Context;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -8,7 +8,7 @@ using System.Linq;
 using System.Linq.Expressions;
 using System.Threading.Tasks;
 
-namespace DevIO.Data.Repository
+namespace Catalogo.Data.Repository
 {
     public abstract class Repository<TEntity> : IRepository<TEntity> where TEntity : Entity, new()
     {

@@ -1,8 +1,8 @@
 ﻿using AutoMapper;
-using DevIO.App.Extensions;
-using DevIO.App.ViewModels;
-using DevIO.Business.Interfaces;
-using DevIO.Business.Models;
+using Catalogo.App.Extensions;
+using Catalogo.App.ViewModels;
+using Catalogo.Business.Interfaces;
+using Catalogo.Business.Models;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -11,7 +11,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Threading.Tasks;
 
-namespace DevIO.App.Controllers
+namespace Catalogo.App.Controllers
 {
     [Authorize]
     public class ProdutosController : BaseController

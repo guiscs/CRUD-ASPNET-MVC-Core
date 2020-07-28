@@ -1,4 +1,4 @@
-﻿using DevIO.App.Data;
+﻿using Catalogo.App.Data;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Identity;
@@ -7,7 +7,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace DevIO.App.Configurations
+namespace Catalogo.App.Configurations
 {
     public static class IdentityConfig
     {

@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace DevIO.Business.Models
+namespace Catalogo.Business.Models
 {
     public class Fornecedor : Entity
     {

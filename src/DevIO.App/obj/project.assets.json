@@ -4756,33 +4756,33 @@
           "lib/netstandard1.3/System.Xml.XPath.XDocument.dll": {}
         }
       },
-      "DevIO.Business/1.0.0": {
+      "Catalogo.Business/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.2",
         "dependencies": {
           "FluentValidation": "9.0.1"
         },
         "compile": {
-          "bin/placeholder/DevIO.Business.dll": {}
+          "bin/placeholder/Catalogo.Business.dll": {}
         },
         "runtime": {
-          "bin/placeholder/DevIO.Business.dll": {}
+          "bin/placeholder/Catalogo.Business.dll": {}
         }
       },
-      "DevIO.Data/1.0.0": {
+      "Catalogo.Data/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.2",
         "dependencies": {
-          "DevIO.Business": "1.0.0",
+          "Catalogo.Business": "1.0.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "2.2.6",
           "Microsoft.EntityframeworkCore": "2.2.6",
           "Microsoft.EntityframeworkCore.Relational": "2.2.6"
         },
         "compile": {
-          "bin/placeholder/DevIO.Data.dll": {}
+          "bin/placeholder/Catalogo.Data.dll": {}
         },
         "runtime": {
-          "bin/placeholder/DevIO.Data.dll": {}
+          "bin/placeholder/Catalogo.Data.dll": {}
         }
       }
     }
@@ -13132,20 +13132,20 @@
         "system.xml.xpath.xdocument.nuspec"
       ]
     },
-    "DevIO.Business/1.0.0": {
+    "Catalogo.Business/1.0.0": {
       "type": "project",
-      "path": "../DevIO.Business/DevIO.Business.csproj",
-      "msbuildProject": "../DevIO.Business/DevIO.Business.csproj"
+      "path": "../DevIO.Business/Catalogo.Business.csproj",
+      "msbuildProject": "../DevIO.Business/Catalogo.Business.csproj"
     },
-    "DevIO.Data/1.0.0": {
+    "Catalogo.Data/1.0.0": {
       "type": "project",
-      "path": "../DevIO.Data/DevIO.Data.csproj",
-      "msbuildProject": "../DevIO.Data/DevIO.Data.csproj"
+      "path": "../DevIO.Data/Catalogo.Data.csproj",
+      "msbuildProject": "../DevIO.Data/Catalogo.Data.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.2": [
-      "DevIO.Data >= 1.0.0",
+      "Catalogo.Data >= 1.0.0",
       "Microsoft.AspNetCore.App >= 2.2.0",
       "Microsoft.AspNetCore.Razor.Design >= 2.2.0",
       "Microsoft.NETCore.App >= 2.2.0",
@@ -13161,9 +13161,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Project\\Aspnet-Crud-MVC\\src\\DevIO.App\\DevIO.App.csproj",
-      "projectName": "DevIO.App",
-      "projectPath": "C:\\Project\\Aspnet-Crud-MVC\\src\\DevIO.App\\DevIO.App.csproj",
+      "projectUniqueName": "C:\\Project\\Aspnet-Crud-MVC\\src\\DevIO.App\\Catalogo.App.csproj",
+      "projectName": "Catalogo.App",
+      "projectPath": "C:\\Project\\Aspnet-Crud-MVC\\src\\DevIO.App\\Catalogo.App.csproj",
       "packagesPath": "C:\\Users\\guime\\.nuget\\packages\\",
       "outputPath": "C:\\Project\\Aspnet-Crud-MVC\\src\\DevIO.App\\obj\\",
       "projectStyle": "PackageReference",
@@ -13186,8 +13186,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Project\\Aspnet-Crud-MVC\\src\\DevIO.Data\\DevIO.Data.csproj": {
-              "projectPath": "C:\\Project\\Aspnet-Crud-MVC\\src\\DevIO.Data\\DevIO.Data.csproj"
+            "C:\\Project\\Aspnet-Crud-MVC\\src\\DevIO.Data\\Catalogo.Data.csproj": {
+              "projectPath": "C:\\Project\\Aspnet-Crud-MVC\\src\\DevIO.Data\\Catalogo.Data.csproj"
             }
           }
         }

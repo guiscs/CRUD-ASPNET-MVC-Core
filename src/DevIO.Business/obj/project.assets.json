@@ -720,9 +720,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Project\\Aspnet-Crud-MVC\\src\\DevIO.Business\\DevIO.Business.csproj",
-      "projectName": "DevIO.Business",
-      "projectPath": "C:\\Project\\Aspnet-Crud-MVC\\src\\DevIO.Business\\DevIO.Business.csproj",
+      "projectUniqueName": "C:\\Project\\Aspnet-Crud-MVC\\src\\DevIO.Business\\Catalogo.Business.csproj",
+      "projectName": "Catalogo.Business",
+      "projectPath": "C:\\Project\\Aspnet-Crud-MVC\\src\\DevIO.Business\\Catalogo.Business.csproj",
       "packagesPath": "C:\\Users\\guime\\.nuget\\packages\\",
       "outputPath": "C:\\Project\\Aspnet-Crud-MVC\\src\\DevIO.Business\\obj\\",
       "projectStyle": "PackageReference",

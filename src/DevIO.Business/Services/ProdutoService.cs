@@ -1,10 +1,10 @@
-﻿using DevIO.Business.Interfaces;
-using DevIO.Business.Models;
-using DevIO.Business.Models.Validations;
+﻿using Catalogo.Business.Interfaces;
+using Catalogo.Business.Models;
+using Catalogo.Business.Models.Validations;
 using System;
 using System.Threading.Tasks;
 
-namespace DevIO.Business.Services
+namespace Catalogo.Business.Services
 {
     public class ProdutoService : BaseService, IProdutoService
     {

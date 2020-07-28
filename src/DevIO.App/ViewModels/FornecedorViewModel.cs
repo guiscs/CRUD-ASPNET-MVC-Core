@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
 
-namespace DevIO.App.ViewModels
+namespace Catalogo.App.ViewModels
 {
     public class FornecedorViewModel
     {

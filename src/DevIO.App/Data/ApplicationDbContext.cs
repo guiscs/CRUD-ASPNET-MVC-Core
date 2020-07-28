@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
-namespace DevIO.App.Data
+namespace Catalogo.App.Data
 {
     public class ApplicationDbContext : IdentityDbContext
     {

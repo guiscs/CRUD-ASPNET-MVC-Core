@@ -1,13 +1,13 @@
-﻿using DevIO.Business.Interfaces;
-using DevIO.Business.Models;
-using DevIO.Data.Context;
+﻿using Catalogo.Business.Interfaces;
+using Catalogo.Business.Models;
+using Catalogo.Data.Context;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace DevIO.Data.Repository
+namespace Catalogo.Data.Repository
 {
     public class ProdutoRepository : Repository<Produto>, IProdutoRepository
     {

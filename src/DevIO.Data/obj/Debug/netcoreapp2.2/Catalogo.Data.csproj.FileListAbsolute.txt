@@ -1,0 +1,12 @@
+C:\Project\Aspnet-Crud-MVC\src\DevIO.Data\bin\Debug\netcoreapp2.2\Catalogo.Data.deps.json
+C:\Project\Aspnet-Crud-MVC\src\DevIO.Data\bin\Debug\netcoreapp2.2\Catalogo.Data.dll
+C:\Project\Aspnet-Crud-MVC\src\DevIO.Data\bin\Debug\netcoreapp2.2\Catalogo.Data.pdb
+C:\Project\Aspnet-Crud-MVC\src\DevIO.Data\bin\Debug\netcoreapp2.2\Catalogo.Business.dll
+C:\Project\Aspnet-Crud-MVC\src\DevIO.Data\bin\Debug\netcoreapp2.2\Catalogo.Business.pdb
+C:\Project\Aspnet-Crud-MVC\src\DevIO.Data\obj\Debug\netcoreapp2.2\Catalogo.Data.csprojAssemblyReference.cache
+C:\Project\Aspnet-Crud-MVC\src\DevIO.Data\obj\Debug\netcoreapp2.2\Catalogo.Data.csproj.CoreCompileInputs.cache
+C:\Project\Aspnet-Crud-MVC\src\DevIO.Data\obj\Debug\netcoreapp2.2\Catalogo.Data.AssemblyInfoInputs.cache
+C:\Project\Aspnet-Crud-MVC\src\DevIO.Data\obj\Debug\netcoreapp2.2\Catalogo.Data.AssemblyInfo.cs
+C:\Project\Aspnet-Crud-MVC\src\DevIO.Data\obj\Debug\netcoreapp2.2\Catalogo.Data.csproj.CopyComplete
+C:\Project\Aspnet-Crud-MVC\src\DevIO.Data\obj\Debug\netcoreapp2.2\Catalogo.Data.dll
+C:\Project\Aspnet-Crud-MVC\src\DevIO.Data\obj\Debug\netcoreapp2.2\Catalogo.Data.pdb

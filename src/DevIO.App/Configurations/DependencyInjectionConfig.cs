@@ -1,13 +1,13 @@
-﻿using DevIO.App.Extensions;
-using DevIO.Business.Interfaces;
-using DevIO.Business.Notificacoes;
-using DevIO.Business.Services;
-using DevIO.Data.Context;
-using DevIO.Data.Repository;
+﻿using Catalogo.App.Extensions;
+using Catalogo.Business.Interfaces;
+using Catalogo.Business.Notificacoes;
+using Catalogo.Business.Services;
+using Catalogo.Data.Context;
+using Catalogo.Data.Repository;
 using Microsoft.AspNetCore.Mvc.DataAnnotations;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace DevIO.App.Configurations
+namespace Catalogo.App.Configurations
 {
     public static class DependencyInjectionConfig
     {

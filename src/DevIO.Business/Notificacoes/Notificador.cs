@@ -1,8 +1,8 @@
-﻿using DevIO.Business.Interfaces;
+﻿using Catalogo.Business.Interfaces;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace DevIO.Business.Notificacoes
+namespace Catalogo.Business.Notificacoes
 {
     public class Notificador : INotificador
     {

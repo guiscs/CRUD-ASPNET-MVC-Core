@@ -916,17 +916,17 @@
           "ref/netstandard1.3/System.Threading.Tasks.dll": {}
         }
       },
-      "DevIO.Business/1.0.0": {
+      "Catalogo.Business/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.2",
         "dependencies": {
           "FluentValidation": "9.0.1"
         },
         "compile": {
-          "bin/placeholder/DevIO.Business.dll": {}
+          "bin/placeholder/Catalogo.Business.dll": {}
         },
         "runtime": {
-          "bin/placeholder/DevIO.Business.dll": {}
+          "bin/placeholder/Catalogo.Business.dll": {}
         }
       }
     }
@@ -3510,15 +3510,15 @@
         "system.threading.tasks.nuspec"
       ]
     },
-    "DevIO.Business/1.0.0": {
+    "Catalogo.Business/1.0.0": {
       "type": "project",
-      "path": "../DevIO.Business/DevIO.Business.csproj",
-      "msbuildProject": "../DevIO.Business/DevIO.Business.csproj"
+      "path": "../DevIO.Business/Catalogo.Business.csproj",
+      "msbuildProject": "../DevIO.Business/Catalogo.Business.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.2": [
-      "DevIO.Business >= 1.0.0",
+      "Catalogo.Business >= 1.0.0",
       "Microsoft.EntityFrameworkCore.SqlServer >= 2.2.6",
       "Microsoft.EntityframeworkCore >= 2.2.6",
       "Microsoft.EntityframeworkCore.Relational >= 2.2.6",
@@ -3533,9 +3533,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Project\\Aspnet-Crud-MVC\\src\\DevIO.Data\\DevIO.Data.csproj",
-      "projectName": "DevIO.Data",
-      "projectPath": "C:\\Project\\Aspnet-Crud-MVC\\src\\DevIO.Data\\DevIO.Data.csproj",
+      "projectUniqueName": "C:\\Project\\Aspnet-Crud-MVC\\src\\DevIO.Data\\Catalogo.Data.csproj",
+      "projectName": "Catalogo.Data",
+      "projectPath": "C:\\Project\\Aspnet-Crud-MVC\\src\\DevIO.Data\\Catalogo.Data.csproj",
       "packagesPath": "C:\\Users\\guime\\.nuget\\packages\\",
       "outputPath": "C:\\Project\\Aspnet-Crud-MVC\\src\\DevIO.Data\\obj\\",
       "projectStyle": "PackageReference",
@@ -3558,8 +3558,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Project\\Aspnet-Crud-MVC\\src\\DevIO.Business\\DevIO.Business.csproj": {
-              "projectPath": "C:\\Project\\Aspnet-Crud-MVC\\src\\DevIO.Business\\DevIO.Business.csproj"
+            "C:\\Project\\Aspnet-Crud-MVC\\src\\DevIO.Business\\Catalogo.Business.csproj": {
+              "projectPath": "C:\\Project\\Aspnet-Crud-MVC\\src\\DevIO.Business\\Catalogo.Business.csproj"
             }
           }
         }

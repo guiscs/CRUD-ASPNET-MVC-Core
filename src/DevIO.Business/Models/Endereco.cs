@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace DevIO.Business.Models
+namespace Catalogo.Business.Models
 {
     public class Endereco : Entity
     {

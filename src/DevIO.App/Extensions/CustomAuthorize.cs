@@ -5,7 +5,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Filters;
 using Microsoft.AspNetCore.Routing;
 
-namespace DevIO.App.Extensions
+namespace Catalogo.App.Extensions
 {
     public class CustomAuthorization
     {

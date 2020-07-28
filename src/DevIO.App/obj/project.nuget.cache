@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "shksMJNOrMeNMRAocRaqqYcUifx06Csk2uhdKK2r07SoyjlgnEE09CsBpOCH2dCrFha8sANYCgH4nSMoxr+TCQ==",
+  "dgSpecHash": "Kxa7v+iBZ9uiPqcgPEYiGNJHOf5gH0heSWBAgiqOrvEKpHyRgHcrSwWjhp1MRmH8IYnFZFdNUAL7D749y0pucA==",
   "success": true,
-  "projectFilePath": "C:\\Project\\Aspnet-Crud-MVC\\src\\DevIO.App\\DevIO.App.csproj",
+  "projectFilePath": "C:\\Project\\Aspnet-Crud-MVC\\src\\DevIO.App\\Catalogo.App.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\guime\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\guime\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\7.0.0\\automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",

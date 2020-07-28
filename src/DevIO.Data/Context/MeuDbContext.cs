@@ -1,8 +1,8 @@
-﻿using DevIO.Business.Models;
+﻿using Catalogo.Business.Models;
 using Microsoft.EntityFrameworkCore;
 using System.Linq;
 
-namespace DevIO.Data.Context
+namespace Catalogo.Data.Context
 {
     public class MeuDbContext : DbContext
     {
